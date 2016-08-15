@@ -11,4 +11,5 @@ mkdir -p $WORKON_HOME
 export VIRTUALENVWRAPPER_PYTHON=/usr/bin/python3.4
 source /usr/bin/virtualenvwrapper.sh
 source ~/.bashrc
+source /etc/bashrc
 mkvirtualenv myvenv
